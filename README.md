@@ -22,10 +22,10 @@
 ║               ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓               ║
 ║                                                           ║
 ║  CRIME: Slicing through bugs with precision              ║
-║  SPECIALTY: Three-Stack Style (Frontend•Backend•DevOps)  ║
+║  SPECIALTY: Three-Stack Style (Frontend•Backend)  ║
 ║  BOUNTY: ∞ GitHub Stars                                  ║
 ║                                                           ║
-║  BASE: Kumbakonam/Tiruchirapalli, Tamil Nadu 🏴‍☠️         ║
+║  BASE: Kumbakonam, Tamil Nadu 🏴‍☠️         ║
 ╚═══════════════════════════════════════════════════════════╝
 """
 ```
@@ -60,7 +60,7 @@ const backend = {
 ```javascript
 const fullStack = {
   ultimate: "Complete Web Empire Domination",
-  deployment: ["Vercel", "Railway", "Docker"],
+  deployment: ["Vercel", Amphify],
   secret_technique: "CI/CD Pipeline Ashura",
   goal: "Become the World's Greatest Developer"
 };
